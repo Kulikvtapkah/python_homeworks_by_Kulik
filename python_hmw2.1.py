@@ -15,13 +15,15 @@
 
 current_distance = int(input("Сколько спортсмен пробежал в первый день? >> "))
 goal_distance = int(input("Сколько он планирует пробегать в день? >> "))
-if current_distance <= 0 or goal_distance < 0:
-    print("Ну, если двигаться сквозь пространство-время, то однажды точно добежит... ")
+if current_distance < 0 or goal_distance < 0:
+    print("Ого! Бег сквозь пространство-время?  Однажды точно добежит... ")
+elif current_distance == 0:
+    print("Сделал бы хоть пару шагов! А-то, как говорится, под лежачий камень... ")
 else:
     day = 1
     while current_distance < goal_distance:
         current_distance *= 1.1
         day += 1
-        print(current_distance)
     print(f"На {day} день спортсмен достигнет результата — не менее {goal_distance} км.")
+
 
