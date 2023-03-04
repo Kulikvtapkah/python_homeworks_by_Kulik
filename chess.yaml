@@ -1,0 +1,15 @@
+chess set:
+- pawn
+- rook
+- knight
+- bishop
+- queen
+- king
+total number: 8
+piece value:
+  pawn: 1 ˆ
+  rook: 5 ˆˆˆˆˆ
+  knight: 3 ˆˆˆ
+  bishop: 3 ˆˆˆ
+  queen: 9 ˆˆˆˆˆˆˆˆˆ
+  king: priceless ®ˆ
