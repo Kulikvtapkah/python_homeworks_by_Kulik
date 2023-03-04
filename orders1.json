@@ -1,0 +1,53 @@
+{
+    "orders": [
+        {
+            "item": "A horse",
+            "quantity": "one",
+            "price": "Kingdom",
+            "buyer": "Richard the Third",
+            "date": "1591"
+        },
+        {
+            "item": "freedom",
+            "quantity": "1",
+            "price": "some wishes of an old fisher's wife",
+            "buyer": "Goldfish",
+            "date": "someday"
+        },
+        {
+            "item": "Knowlede and Pleasure",
+            "quantity": "unlimited",
+            "price": "soul",
+            "buyer": "Faust",
+            "date": "1587"
+        },
+        {
+            "item": "Legs",
+            "quantity": "2",
+            "price": "1 voice",
+            "buyer": "Ariel",
+            "date": "one_stormy_night"
+        },
+        {
+            "item": "forehead flick",
+            "quantity": "3",
+            "price": "hard work",
+            "buyer": "Balda",
+            "date": "Sunday"
+        },
+        {
+            "item": "theater ticket",
+            "quantity": "1",
+            "price": "New ABC-book",
+            "buyer": "Buratino",
+            "date": "one_summer_day"
+        },
+        {
+            "item": "leasure day",
+            "quantity": "1",
+            "price": "one day of his life",
+            "buyer": "Shreck",
+            "date": "long_long_ago"
+        }
+    ]
+}
